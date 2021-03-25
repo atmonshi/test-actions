@@ -1,8 +1,7 @@
 <?php
-
 $l = '1';
 
-functioon asSs(){
+function asSs(){
   echo  1;
 }
 
