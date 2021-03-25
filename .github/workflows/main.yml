@@ -1,0 +1,4 @@
+- name: PHPCS Code Review
+  # You may pin to the exact commit or the version.
+  # uses: rtCamp/action-phpcs-code-review@ce438970e601d4981d7f081a931461993983d859
+  uses: rtCamp/action-phpcs-code-review@v2.0.3
