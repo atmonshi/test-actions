@@ -37,3 +37,5 @@ jobs:
       
       - name: PHPCS Code Review
         uses: rtCamp/action-phpcs-code-review@v2.0.3
+        env:
+          GH_BOT_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
